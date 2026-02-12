@@ -6,7 +6,7 @@ import Error from './Error.jsx'
 const requestConfig = {}
  const Meals = () => {
  /* const [meals,setMeals] = useState([]) */
-  const {data:meals,isLoading,error}  = useHttp('http://localhost:3000/meals',requestConfig,[])
+  const {data:meals,isLoading,error}  = useHttp('https://happy-foods.onrender.com',requestConfig,[])
   console.log(error)
   if(isLoading){
     return <p className='center'>Fecthing meals...</p>
