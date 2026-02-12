@@ -14,7 +14,7 @@ const requestConfig = {}
 /*  useEffect( () => {
     async  function fetchMeals(){
     try {
-            const response =  await fetch('http://localhost:3000/meals')
+            const response =  await fetch('https://happy-foods.onrender.com')
             const meals = await response.json()
             setMeals(meals)
     } catch (error) {
