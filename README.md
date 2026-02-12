@@ -5,7 +5,7 @@ A full-stack food ordering application built with React and Express.
 ## 🚀 Live Demo
 
 Frontend (Netlify):
-https://your-netlify-url.netlify.app
+https://happyfoods.netlify.app
 
 Backend (Render):
 https://happy-foods.onrender.com
