@@ -14,7 +14,7 @@ https://happy-foods.onrender.com
 
 ## 📸 Project Preview
 
-![Project Preview](./preview.png.png)
+![Project Preview](./Preview.png.png)
 
 ---
 
